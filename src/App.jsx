@@ -1,6 +1,6 @@
 
 import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import viteLogo from '../public/vite.svg'
 import './App.css'
 import ContactList from './assets/components/ContactList'
 import FormChat from './assets/components/FormChat'
